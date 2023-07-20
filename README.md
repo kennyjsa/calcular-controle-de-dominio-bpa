@@ -10,11 +10,10 @@ Este projeto consiste em uma página web que permite importar um arquivo de text
 
 ## Como usar
 
-1. Faça o download dos arquivos `index.html` e `bootstrap.bundle.min.js` fornecidos neste repositório.
-2. Abra o arquivo `index.html` em um navegador da web.
-3. Selecione um arquivo de texto contendo as linhas de tamanho delimitado e clique no botão "Importar".
-4. O Controle de Domínio será calculado e exibido na página.
-5. Clique no botão "Baixar Arquivo" para obter o arquivo de saída com o Controle de Domínio inserido.
+1. Acesse o projeto hospedado no GitHub Pages: [https://kennyjsa.github.io/calcular-controle-de-dominio-bpa/](https://kennyjsa.github.io/calcular-controle-de-dominio-bpa/)
+2. Selecione um arquivo de texto contendo as linhas de tamanho delimitado e clique no botão "Importar".
+3. O Controle de Domínio será calculado e exibido na página.
+4. Clique no botão "Baixar Arquivo" para obter o arquivo de saída com o Controle de Domínio inserido.
 
 ## Requisitos
 
