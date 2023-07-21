@@ -44,9 +44,9 @@
                     // Mantém as linhas iniciadas em '02' ou '03' sem alterações
                     contentWithControl += lines[i] + '\n';
                 } else if (lineType === '01') {
-                    contentWithControl += lines[i].substring(0, 26); // Mantém os primeiros 26 caracteres
+                    contentWithControl += lines[i].substring(0, 25); // Mantém os primeiros 26 caracteres
                     contentWithControl += domainControl.toString().padStart(4, '0'); // Adiciona o Controle de Domínio
-                    contentWithControl += lines[i].substring(30) + '\n'; // Mantém o restante da linha
+                    contentWithControl += lines[i].substring(29) + '\n'; // Mantém o restante da linha
                 }
             }
 
